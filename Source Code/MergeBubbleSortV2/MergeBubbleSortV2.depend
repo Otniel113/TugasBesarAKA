@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608553718 source:d:\kuliah online\semester 5\analisis algoritma\tubes\mergebubblesortv2\main.cpp
+	"header.h"
+
+1608553718 d:\kuliah online\semester 5\analisis algoritma\tubes\mergebubblesortv2\header.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+
+1608554234 source:d:\kuliah online\semester 5\analisis algoritma\tubes\mergebubblesortv2\source.cpp
+	"header.h"
+
