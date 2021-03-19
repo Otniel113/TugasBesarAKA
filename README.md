@@ -27,6 +27,6 @@ Pertama-tama, User diminta untuk memasukkan input berapa panjang array yang akan
 9. Keluar : Untuk keluar dari program
 
 ## Video Penjelasan
-Silakan klik gambar di bawah
+Silakan klik gambar di bawah untuk pergi ke link video
 
 [![video](https://img.youtube.com/vi/uhNTlwKRZbc/0.jpg)](https://www.youtube.com/watch?v=uhNTlwKRZbc)
