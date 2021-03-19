@@ -1,4 +1,2 @@
 # TugasBesarAKA
-Untuk membandingkan kompleksitas dari dua algoritma sorting, yaitu :
-1. BubbleSort
-2. MergeSort
+Ditujukan untuk Tugas Besar mata kuliah Analisas Kompleksitas Algoritma yang dikerjakan secara kelompok 2 orang dengan Jose Vernando
