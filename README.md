@@ -26,6 +26,17 @@ Pertama-tama, User diminta untuk memasukkan input berapa panjang array yang akan
 4. Reset isi Array : Mereset isi anggota dari array
 9. Keluar : Untuk keluar dari program
 
+## Hasil Pengamatan
+Didaptkan hasil pengamatan berupa waktu eksekusi (dalam detik) dari kedua algoritma tersebut untuk nilai n (panjang array) yang berbeda.
+| Input (n) | 10 | 100 | 1000 | 10000 | 100000 | 250000 |
+| -- | -- | -- | -- | -- | -- | -- |
+| Bubble Sort | 0 | 0 | 0.015 | 0.527 | 54.457 | 332 |
+| Merge Sort | 0 | 0 | 0 | 0 | 0.033 | 0.078 |
+<br>
+Atau bisa dilihat dalam grafik <br>
+
+![AKA_Pengamatan](https://drive.google.com/uc?id=154qh2iMJ5-g0ga2sxWdUHBgIsYeCV4kk)
+
 ## Video Penjelasan
 Silakan klik gambar di bawah untuk pergi ke link video
 
